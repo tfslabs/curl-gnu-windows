@@ -1,6 +1,6 @@
-# GNU Windows Extension
+# CURL Extension
 
-This template helps a lot in building docs and understanding GNU Windows Extension source code, building and other related documents
+CURL Extension is a free and easy-to-use client-side URL transfer library
 
 ## Build this library
 
@@ -14,11 +14,11 @@ To build this library, you will need:
 >
 > Ensure you can run `make`, `gcc`  and `g++` from the command line without issues.
 
+Just run the  following commands in a terminal window to get started:
+
 Additionally, you may need to install these libraries:
 
-* [Lib 1]()
-
-Just run the  following commands in a terminal window to get started:
+* [ZLib Extension for GNU Windows](https://github.com/tfslabs/zlib-gnu-windows)
 
 ```cmd
 build.cmd
