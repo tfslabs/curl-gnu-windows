@@ -19,6 +19,7 @@ Just run the  following commands in a terminal window to get started:
 Additionally, you may need to install these libraries:
 
 * [ZLib Extension for GNU Windows](https://github.com/tfslabs/zlib-gnu-windows)
+* [Ninja Extension for GNU Windows](https://github.com/tfslabs/meson-ninja-gnu-windows)
 
 ```cmd
 build.cmd
